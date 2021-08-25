@@ -1,5 +1,7 @@
 # Movie Search App
 
+![movie-search-app](https://user-images.githubusercontent.com/4606376/130727576-68511f6f-4338-4a0f-834b-8e0fa9785681.png)
+
 ### Instructions
 ---
 ### Step 1
